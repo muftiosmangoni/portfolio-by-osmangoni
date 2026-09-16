@@ -1,0 +1,6 @@
+{
+  "name": "Osman Goni - Visualizer & Video Editor",
+  "description": "Portfolio of Osman Goni, Creative Visualizer, Video Editor & Graphic Designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
